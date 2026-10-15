@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PalindromeCheck
+comment1.params=data
+comment1.target=boolean\ isPalindrome(java.lang.String)
+comment2.params=queue
+comment2.target=boolean\ isQueuePalindrome(Queue_nonDHSLL)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

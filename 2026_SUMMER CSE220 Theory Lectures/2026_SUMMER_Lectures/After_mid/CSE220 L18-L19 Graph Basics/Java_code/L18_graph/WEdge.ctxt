@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=WEdge
+comment1.params=destination\ weight
+comment1.target=WEdge(int,\ int)
+numComments=2

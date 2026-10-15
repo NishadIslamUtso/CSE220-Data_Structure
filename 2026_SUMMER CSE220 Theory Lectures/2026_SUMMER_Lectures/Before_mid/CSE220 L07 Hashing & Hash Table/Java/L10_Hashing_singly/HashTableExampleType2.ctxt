@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HashTableExampleType2
+comment1.params=size
+comment1.target=HashTableExampleType2(int)
+comment2.params=key
+comment2.target=int\ hashFunction(java.lang.String)
+comment3.params=key\ value
+comment3.target=void\ insert(java.lang.String,\ int)
+comment4.params=key
+comment4.target=boolean\ search(java.lang.String)
+comment5.params=remKey
+comment5.target=void\ remove(java.lang.String)
+comment6.params=
+comment6.target=void\ printHashTable()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Q4Heap
+comment1.params=numbers\ k
+comment1.target=int[]\ scanMaxInGroup(int[],\ int)
+comment1.text=\r\n\ scanMaxInGroup(numbers,\ k)\r\n\ Returns\ an\ array\ containing\ the\ maximum\ of\ each\ consecutive\ group\ of\ size\ k\r\n\ Must\ use\ MaxHeap\ and\ only\ insert()\ /\ extractMax()\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=arr
+comment3.target=void\ printArray(int[])
+numComments=4

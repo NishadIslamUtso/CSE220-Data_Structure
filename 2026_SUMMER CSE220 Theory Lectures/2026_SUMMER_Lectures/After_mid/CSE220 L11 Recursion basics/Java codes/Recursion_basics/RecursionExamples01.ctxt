@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=RecursionExamples01
+comment1.params=
+comment1.target=void\ show1to4While()
+comment10.params=n
+comment10.target=int\ getNthFibonacci(int)
+comment11.params=n
+comment11.target=int\ getNthFibonacciRecursive(int)
+comment12.params=args
+comment12.target=void\ main(java.lang.String[])
+comment2.params=i
+comment2.target=void\ show1to4(int)
+comment3.params=
+comment3.target=void\ show4to1While()
+comment4.params=i
+comment4.target=void\ show4to1(int)
+comment5.params=i
+comment5.target=void\ show4to1ReverseOrder(int)
+comment6.params=n
+comment6.target=int\ sum1toNWhile(int)
+comment7.params=i\ n
+comment7.target=int\ sum1toN(int,\ int)
+comment8.params=n
+comment8.target=int\ factLoop(int)
+comment9.params=n
+comment9.target=int\ factRec(int)
+numComments=13

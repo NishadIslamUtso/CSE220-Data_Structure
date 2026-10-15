@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LinkedListTraversal
+comment1.params=
+comment1.target=void\ traverseAll()
+comment2.params=
+comment2.target=void\ traverseUntilLast()
+comment3.params=arr
+comment3.target=void\ createList(int[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

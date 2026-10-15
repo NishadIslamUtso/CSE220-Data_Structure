@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Quiz02LessThanXReverseSolution
+comment1.params=head\ x
+comment1.target=Node\ lessThanXReverse(Node,\ int)
+comment2.params=values
+comment2.target=Node\ createList(int[])
+comment3.params=head
+comment3.target=void\ printList(Node)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

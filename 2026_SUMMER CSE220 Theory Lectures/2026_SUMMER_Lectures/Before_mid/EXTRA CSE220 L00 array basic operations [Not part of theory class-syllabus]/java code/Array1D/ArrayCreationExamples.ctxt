@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayCreationExamples
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=void\ printArray(int[])
+comment3.params=arr
+comment3.target=void\ printArray(double[])
+comment4.params=arr
+comment4.target=void\ printArray(java.lang.String[])
+comment5.params=arr
+comment5.target=void\ printArray(java.lang.Integer[])
+numComments=6

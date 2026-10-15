@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DNode
+comment1.params=elem\ next\ prev
+comment1.target=DNode(int,\ DNode,\ DNode)
+comment2.params=elem
+comment2.target=DNode(int)
+numComments=3

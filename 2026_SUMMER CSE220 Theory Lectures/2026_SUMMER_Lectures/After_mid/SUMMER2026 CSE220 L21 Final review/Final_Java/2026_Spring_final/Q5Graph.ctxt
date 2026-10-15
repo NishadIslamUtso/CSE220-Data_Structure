@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Q5Graph
+comment1.params=transaction
+comment1.target=void\ richestVertexApproach1(Edge[])
+comment2.params=transaction
+comment2.target=void\ richestVertexApproach2(Edge[])
+comment3.params=transaction
+comment3.target=void\ richestVertexApproach3(Edge[])
+comment4.params=graph
+comment4.target=void\ printGraph(Edge[])
+comment5.params=graph\ from\ to\ weight
+comment5.target=void\ addEdge(Edge[],\ int,\ int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

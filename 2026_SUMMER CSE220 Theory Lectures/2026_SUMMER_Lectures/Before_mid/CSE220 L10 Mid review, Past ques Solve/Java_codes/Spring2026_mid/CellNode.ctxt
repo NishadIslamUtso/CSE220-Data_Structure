@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CellNode
+comment1.params=val\ radius
+comment1.target=CellNode(int,\ int)
+numComments=2

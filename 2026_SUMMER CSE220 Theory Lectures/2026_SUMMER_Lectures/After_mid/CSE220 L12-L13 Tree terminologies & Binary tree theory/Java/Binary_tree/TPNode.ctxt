@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=TPNode
+comment1.params=val\ parent
+comment1.target=TPNode(java.lang.String,\ TPNode)
+numComments=2

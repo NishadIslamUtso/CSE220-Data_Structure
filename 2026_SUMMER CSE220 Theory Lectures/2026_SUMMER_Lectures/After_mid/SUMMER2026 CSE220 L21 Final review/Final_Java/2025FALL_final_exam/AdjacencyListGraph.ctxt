@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AdjacencyListGraph
+comment1.params=num_vertices
+comment1.target=AdjacencyListGraph(int)
+comment2.params=edges
+comment2.target=void\ add_edges(int[][])
+comment3.params=source\ destination
+comment3.target=void\ add_edge(int,\ int)
+comment4.params=
+comment4.target=void\ print_list()
+numComments=5

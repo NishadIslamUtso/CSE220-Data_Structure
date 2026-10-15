@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Summer2025_HashTable
+comment1.params=key
+comment1.target=int\ hash(int)
+comment2.params=key
+comment2.target=void\ insert(int)
+comment3.params=
+comment3.target=void\ printHashTable()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Q3MergeStacks
+comment1.params=stack1\ stack2
+comment1.target=Stack\ mergeStacks1(Stack,\ Stack)
+comment2.params=stack1\ stack2
+comment2.target=Stack\ mergeStacks2(Stack,\ Stack)
+comment3.params=stack1\ stack2
+comment3.target=Stack\ mergeStacks3(Stack,\ Stack)
+comment4.params=values
+comment4.target=Stack\ buildStackFromArray(int[])
+comment5.params=name
+comment5.target=void\ testMergeFunction(java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

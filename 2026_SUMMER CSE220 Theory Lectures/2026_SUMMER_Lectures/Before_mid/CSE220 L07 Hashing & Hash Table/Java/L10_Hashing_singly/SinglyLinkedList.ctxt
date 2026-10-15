@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SinglyLinkedList
+comment1.params=
+comment1.target=SinglyLinkedList()
+comment2.params=key
+comment2.target=Node\ find(java.lang.String)
+comment3.params=key\ value
+comment3.target=void\ prepend(java.lang.String,\ int)
+comment4.params=key
+comment4.target=boolean\ delete(java.lang.String)
+comment5.params=
+comment5.target=void\ display()
+numComments=6

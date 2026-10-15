@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CopyArrayDemo
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arr
+comment2.target=int[]\ copyArray(int[])
+comment3.params=arr
+comment3.target=void\ printArray(int[])
+numComments=4

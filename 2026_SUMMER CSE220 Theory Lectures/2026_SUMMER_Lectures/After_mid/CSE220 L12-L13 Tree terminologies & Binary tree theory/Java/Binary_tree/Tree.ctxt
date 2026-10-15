@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=root\ length
+comment1.target=Tree(java.lang.Object,\ int)
+comment2.params=parentIndex\ side\ child
+comment2.target=void\ setChild(int,\ java.lang.String,\ java.lang.Object)
+comment3.params=
+comment3.target=void\ printTreeArray()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

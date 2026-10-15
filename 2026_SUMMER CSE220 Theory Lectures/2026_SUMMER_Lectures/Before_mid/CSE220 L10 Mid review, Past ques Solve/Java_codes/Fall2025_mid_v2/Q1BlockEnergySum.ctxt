@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Q1BlockEnergySum
+comment1.params=grid\ directions
+comment1.target=int[][]\ blockEnergySum1(int[][],\ java.lang.String[][])
+comment2.params=grid\ directions
+comment2.target=int[][]\ blockEnergySum2(int[][],\ java.lang.String[][])
+comment3.params=grid\ startR\ startC\ dx\ dy
+comment3.target=int\ diagonalSum(int[][],\ int,\ int,\ int,\ int)
+comment4.params=matrix
+comment4.target=void\ printMatrix(int[][])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

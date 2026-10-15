@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Q5_GraphCheck
+comment1.params=network
+comment1.target=int[][]\ networkCheck1(Edge[])
+comment2.params=network\ v
+comment2.target=int\ out_degree(Edge[],\ int)
+comment3.params=network\ v
+comment3.target=int\ in_degree(Edge[],\ int)
+comment4.params=network
+comment4.target=int[][]\ NetworkCheck2(Edge[])
+comment5.params=deg
+comment5.target=void\ printReturned2DArray(int[][])
+comment6.params=edges\ n
+comment6.target=void\ tester(int[][],\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

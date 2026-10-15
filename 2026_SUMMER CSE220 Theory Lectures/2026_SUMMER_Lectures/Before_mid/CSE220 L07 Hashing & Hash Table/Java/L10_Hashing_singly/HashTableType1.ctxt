@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HashTableType1
+comment1.params=size
+comment1.target=HashTableType1(int)
+comment2.params=key
+comment2.target=int\ hash(java.lang.String)
+comment3.params=key\ value
+comment3.target=void\ insert(java.lang.String,\ int)
+comment4.params=key
+comment4.target=java.lang.Integer\ search(java.lang.String)
+comment5.params=key
+comment5.target=boolean\ delete(java.lang.String)
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

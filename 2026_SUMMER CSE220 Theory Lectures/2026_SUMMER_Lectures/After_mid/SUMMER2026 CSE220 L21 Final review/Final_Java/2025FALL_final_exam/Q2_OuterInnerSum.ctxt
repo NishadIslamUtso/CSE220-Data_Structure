@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Q2_OuterInnerSum
+comment1.params=root
+comment1.target=void\ outerInnerSum_style1(BTNode)
+comment10.params=i\ max_val
+comment10.target=BTNode\ buildPerfectTree(int,\ int)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=node
+comment2.target=int\ calculateTotalSum(BTNode)
+comment3.params=node
+comment3.target=int\ calculateLeafSum(BTNode)
+comment4.params=node
+comment4.target=int\ calculateLeftOuterLayer(BTNode)
+comment5.params=node
+comment5.target=int\ calculateRightOuterLayer(BTNode)
+comment6.params=root
+comment6.target=void\ outerInnerSum_style2(BTNode)
+comment7.params=root\ leafOnly
+comment7.target=int\ sumTree(BTNode,\ boolean)
+comment8.params=node\ isLeftBoundary\ isRightBoundary\ sums
+comment8.target=void\ helper(BTNode,\ boolean,\ boolean,\ int[])
+comment9.params=root
+comment9.target=void\ outerInnerSum_style3(BTNode)
+numComments=12

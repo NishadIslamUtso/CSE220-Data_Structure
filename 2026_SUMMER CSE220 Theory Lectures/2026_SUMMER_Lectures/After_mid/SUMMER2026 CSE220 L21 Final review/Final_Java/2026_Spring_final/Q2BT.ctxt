@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Q2BT
+comment1.params=node
+comment1.target=int\ subtreeSum(BTNode)
+comment2.params=root
+comment2.target=BTNode\ mutatingVirusApproach1(BTNode)
+comment3.params=node
+comment3.target=int\ virusHelper(BTNode)
+comment4.params=root
+comment4.target=BTNode\ mutatingVirusApproach2(BTNode)
+comment5.params=
+comment5.target=BTNode\ createSampleTree()
+comment6.params=root\ indent\ isRight
+comment6.target=void\ printTree(BTNode,\ java.lang.String,\ boolean)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

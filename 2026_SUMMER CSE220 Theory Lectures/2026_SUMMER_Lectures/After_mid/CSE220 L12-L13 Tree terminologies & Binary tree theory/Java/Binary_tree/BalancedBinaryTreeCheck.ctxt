@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BalancedBinaryTreeCheck
+comment1.params=node
+comment1.target=int\ getDf(TNode)
+comment2.params=root
+comment2.target=boolean\ isBalanced(TNode)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Summer2025_Q3_Escape
+comment1.params=node\ seq\ i
+comment1.target=java.lang.String\ walk(NodeInt,\ int[],\ int)
+comment2.params=root\ seq
+comment2.target=java.lang.String\ findPath(NodeInt,\ int[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

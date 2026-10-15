@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=InPlace
+comment1.params=board
+comment1.target=void\ gameOfLife(int[][])
+comment2.params=board\ row\ col
+comment2.target=int\ countLiveNeighbors(int[][],\ int,\ int)
+comment3.params=board
+comment3.target=void\ printBoard(int[][])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MergeByIntersection
+comment1.params=headA\ headB
+comment1.target=NodeInt\ mergeLL(NodeInt,\ NodeInt)
+comment2.params=values
+comment2.target=NodeInt\ createList(int[])
+comment3.params=head
+comment3.target=NodeInt\ tailOf(NodeInt)
+comment4.params=headA\ nodeInB
+comment4.target=void\ makeIntersect(NodeInt,\ NodeInt)
+comment5.params=head
+comment5.target=void\ printList(NodeInt)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

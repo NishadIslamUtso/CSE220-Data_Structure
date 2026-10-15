@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PerfectBinaryTreeCheck
+comment1.params=node\ level
+comment1.target=int\ getLevel(TNode,\ int)
+comment2.params=root\ level
+comment2.target=boolean\ isPerfectTree(TNode,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

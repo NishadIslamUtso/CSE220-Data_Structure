@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=LinkedListQueue
+comment1.params=
+comment1.target=LinkedListQueue()
+comment10.params=
+comment10.target=void\ displayQueue()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=elem
+comment4.target=void\ enqueue(int)
+comment5.params=
+comment5.target=int\ dequeue()
+comment6.params=
+comment6.target=int\ peek()
+comment7.params=obj
+comment7.target=int\ search(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=int[]\ toArray()
+numComments=11

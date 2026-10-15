@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=QueueOverflowException
+comment1.params=message
+comment1.target=QueueOverflowException(java.lang.String)
+numComments=2

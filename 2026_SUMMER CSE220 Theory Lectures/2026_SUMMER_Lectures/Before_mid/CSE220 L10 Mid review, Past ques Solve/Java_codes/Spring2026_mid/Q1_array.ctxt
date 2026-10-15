@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Q1_array
+comment1.params=matrix
+comment1.target=void\ decode1(char[][])
+comment2.params=matrix
+comment2.target=void\ decode2(char[][])
+comment3.params=matrix\ i\ j
+comment3.target=void\ printIfNotVisited(char[][],\ int,\ int)
+comment4.params=matrix
+comment4.target=void\ decode3(char[][])
+comment5.params=matrix
+comment5.target=void\ decode4(char[][])
+comment6.params=matrix
+comment6.target=char[][]\ copyMatrix(char[][])
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
